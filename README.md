@@ -1,2 +1,2 @@
 # H3ctor-X
-- Allows you to get a console in Roblox using an exploit. (Such as KRNL)
+H3ctor-X is the leading FE admin script for ROBLOX exploiting. H3ctor-X is not a competitor, H3ctor-X is the competition. With over 600 commands and updates coming in daily or bi-daily, we can assure you that H3ctor-X is the best of the best. Not satisfied with the look of H3ctor-X? Request or create and use a theme. While we do have plug-in support, we really don't see what you'd need to add onto H3ctor-X.
