@@ -356,7 +356,7 @@ end)
 setreadonly(mt, true)--]]
 loadstring(game:HttpGet("https://raw.githubusercontent.com/CMD-X/CMD-X/master/Version",true))()
 if Current and Current.Version ~= ver then
-	Stand("CMD-X is not up to par!","CMD-X cannot run.","","Your version: "..ver,"Current version: "..Current.Version,"Run Anyway",true)
+	Stand("H3ctor-X is not up to par!","H3ctor-X cannot run.","","Your version: "..ver,"Current version: "..Current.Version,"Run Anyway",true)
 	while not RunDude do
 		wait()
 	end
@@ -369,7 +369,7 @@ if isfile then
 	end
 end
 
-Stand("IMPORTANT","CMD-X's server is DEAD as FUCK. F","Join the new one to support us at:",cordCode,"","I joined!",true)
+Stand("IMPORTANT","Welcome in new H3ctor-X CMD for Roblox !. F","Join the new one to support us at:",cordCode,"","I joined!",true)
 --repeat wait() until RunDude == true
 
 -- Variables: ------------------------|
